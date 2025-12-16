@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989581684340",
+    "project_id": "exfinalmovilflutter",
+    "storage_bucket": "exfinalmovilflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989581684340:android:0d94f0bca4b76ae713eb21",
+        "android_client_info": {
+          "package_name": "com.example.practica62_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY3V9suyF6AvG9LFJKnix0UCcJ0cYriH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
